@@ -1,6 +1,6 @@
 # Full-Body-Estimation-using-Media-Pipe-Holistic
 
-# 01.  RehabX – Finger Runner Game  
+# Section-01.  RehabX – Finger Runner Game  
 *A Vision-Based Rehabilitation Game Using MediaPipe & Pygame*
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
